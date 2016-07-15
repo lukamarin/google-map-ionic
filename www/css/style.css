@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+
+.scroll {
+    height: 100%;
+}
+
+#map_canvas {
+    height: 100%;
+    width: 100%;
+}
