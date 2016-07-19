@@ -75,4 +75,4 @@ This starter are using the wf9a5m75's version of plugin *phonegap-googlemaps-plu
 
 ## License
 
-[MIT License](http://betomuniz.mit-license.org) © Beto Muniz
+© 2016 Luka Marin
